@@ -13,12 +13,13 @@ This project analyzes historical daily revenue data to evaluate hotel financial 
 ### 🏢 Hotel Operational Performance
 <img width="1298" height="736" alt="Screenshot 2026-05-04 140709" src="https://github.com/user-attachments/assets/0cff6185-df8f-4b50-9b79-0771d1cf0793" />
 
-Overall, the hotel achieved a strong 80.2% profit margin in the first quarter of 2024, generating €7.7M in total revenue and €6.2M in gross operating profit from 44,318 available rooms, while also maintaining high guest satisfaction with an average review score of 4.6.
+Overall, the hotel achieved a strong 80.2% profit margin in Q1 2024, generating €7.7M in revenue and €6.2M in GOP from 44,318 rooms, with high guest satisfaction (4.6 rating)
 
-- Weekly revenue held steady at €0.5M–€0.6M, with sharp dips at month-start and end (down to €0.18M and €0.08M in March), while profit margins remained stable at 79%–81.5%.
-- In terms of day-of-week performance, Saturday leads with €1.12M, reflecting strong weekend demand, while Thursday records the lowest revenue at €1.09M. The remaining days are highly consistent, ranging between €1.09M and €1.10M.
-- In terms of seasonal demand, January is focused on the start and middle of the week (peaking Tuesday), February shifts to Thursdays, and by March, weekends dominate,led by Saturday, with Friday and Sunday as shoulder days.
-- 
+- Weekly revenue stayed stable at €0.5M–€0.6M, with sharp dips at month-start and end (down to €0.18M and €0.08M in March), while margins remained stable at 79%–81.5%.
+-Saturday leads daily revenue (€1.12M), Thursday is the lowest (€1.09M), with other days remaining consistent between €1.09M and €1.10M.
+- Seasonally, January is focused on the start and middle of the week (Tue peak), February shifts to Thursdays, and March becomes weekend-driven (Sat peak, Fri/Sun were shoulder days).
+- Costs remain flat (€0.1M–€0.5M); revenue peaks at 78% occupancy but drops at 81%, suggesting discounting or lower-yield mix. The break-even point (BEP) is ~76%, with higher occupancy driving extra costs.
+- Higher review scores drive revenue. The revenue increased from ~€81K at 4.4 to more than €90K+ at 4.7. The optimal “sweet spot” is around 4.6, with revenue between €82K and €88K.
 
 ### 🧮 Room Revenue Breakdown and Leakage
 <img width="1276" height="728" alt="Screenshot 2026-05-04 140653" src="https://github.com/user-attachments/assets/93e5b1cf-01e0-4a3d-a4c4-f734ccb744fd" />
