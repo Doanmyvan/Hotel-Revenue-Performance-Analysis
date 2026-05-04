@@ -18,3 +18,5 @@ This project analyzes historical daily revenue data to evaluate hotel financial 
 
 ### 📈 Forecasting Q2, 2024
 <img width="1293" height="732" alt="Screenshot 2026-05-04 140720" src="https://github.com/user-attachments/assets/428d54dc-f05b-4631-99fb-5680ec8d45c4" />
+
+### 💡 Strategic Recommendations
