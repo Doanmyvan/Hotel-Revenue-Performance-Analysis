@@ -12,6 +12,7 @@ This project analyzes historical daily revenue data to evaluate hotel financial 
 ## Data Analysis & Strategic Insights
 ### Hotel Operational Perfromance
 <img width="1298" height="736" alt="Screenshot 2026-05-04 140709" src="https://github.com/user-attachments/assets/0cff6185-df8f-4b50-9b79-0771d1cf0793" />
+
 ### Room Revenue Breakdown and Leakage
 <img width="1276" height="728" alt="Screenshot 2026-05-04 140653" src="https://github.com/user-attachments/assets/93e5b1cf-01e0-4a3d-a4c4-f734ccb744fd" />
 
