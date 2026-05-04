@@ -16,7 +16,9 @@ This project analyzes historical daily revenue data to evaluate hotel financial 
 Overall, the hotel achieved a strong 80.2% profit margin in the first quarter of 2024, generating €7.7M in total revenue and €6.2M in gross operating profit from 44,318 available rooms, while also maintaining high guest satisfaction with an average review score of 4.6.
 
 - Weekly revenue held steady at €0.5M–€0.6M, with sharp dips at month-start and end (down to €0.18M and €0.08M in March), while profit margins remained stable at 79%–81.5%.
-- In terms of day-of-week performance, Saturday leads with €1.12M, reflecting strong weekend demand, while Thursday records the lowest revenue at €1.09M. The remaining days are highly consistent, ranging between €1.09M and €1.10M. 
+- In terms of day-of-week performance, Saturday leads with €1.12M, reflecting strong weekend demand, while Thursday records the lowest revenue at €1.09M. The remaining days are highly consistent, ranging between €1.09M and €1.10M.
+- In terms of seasonal demand, January is focused on the start and middle of the week (peaking Tuesday), February shifts to Thursdays, and by March, weekends dominate,led by Saturday, with Friday and Sunday as shoulder days.
+- 
 
 ### 🧮 Room Revenue Breakdown and Leakage
 <img width="1276" height="728" alt="Screenshot 2026-05-04 140653" src="https://github.com/user-attachments/assets/93e5b1cf-01e0-4a3d-a4c4-f734ccb744fd" />
