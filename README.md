@@ -1,2 +1,7 @@
-# Hotel-Revenue-Performance-Analysis
-Analyzing historical hotel data to identify revenue growth opportunities, booking patterns, and guest behavior through interactive dashboards and statistical modeling.
+# Hotel Revenue Performance Analysis
+## Case Study: 
+- **Property**: The Prime Köln - 4 stars Hotel
+- **Inventory**: 500 Rooms
+- **Location**: Köln Central
+- **Period**: Q1 2024
+## Objective: 
