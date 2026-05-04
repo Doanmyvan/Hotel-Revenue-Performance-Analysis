@@ -13,6 +13,9 @@ This project analyzes historical daily revenue data to evaluate hotel financial 
 ### 🏢 Hotel Operational Performance
 <img width="1298" height="736" alt="Screenshot 2026-05-04 140709" src="https://github.com/user-attachments/assets/0cff6185-df8f-4b50-9b79-0771d1cf0793" />
 
+Overall, the hotel achieved a strong 80.2% profit margin in the first quarter of 2024, generating €7.7M in total revenue and €6.2M in gross operating profit from 44,318 available rooms, while also maintaining high guest satisfaction with an average review score of 4.6.
+- 
+
 ### 🧮 Room Revenue Breakdown and Leakage
 <img width="1276" height="728" alt="Screenshot 2026-05-04 140653" src="https://github.com/user-attachments/assets/93e5b1cf-01e0-4a3d-a4c4-f734ccb744fd" />
 
