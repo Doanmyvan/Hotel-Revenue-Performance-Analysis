@@ -35,7 +35,7 @@ In general, rooms generated €4M in revenue, with average occupancy at 78%, ADR
 <img width="1293" height="732" alt="Screenshot 2026-05-04 140720" src="https://github.com/user-attachments/assets/428d54dc-f05b-4631-99fb-5680ec8d45c4" />
 
 With major events in Cologne during Q2 2024, especially Euro 2024 and The Tire Cologne in June, the model forecasts an average occupancy of 77%. From April to June, occupancy ranges from an upper bound of 81%–84% to a lower bound of 70%–72%. ADR is expected to average €123, peaking in June, with an upper range of €136–€138 and a lower bound of €108–€113 in low-demand scenarios.
-### 📌 Summary
+### 📌 Highlight 
 **Key Strengths**: 
 - Strong profitability (80.2% GOP margin)
 - Solid ancillary revenue (45% from other department)
@@ -48,3 +48,11 @@ With major events in Cologne during Q2 2024, especially Euro 2024 and The Tire C
   - A drop in Achievement Rate in late March reveals a delayed reaction to softening market demand
   - Performance begins to decline beyond 80% occupancy, indicating risks of over-discounting to fill remaining capacity.
 ### 💡 Strategic Recommendations
+- Reduce OOO revenue leakage by **optimizing inventory availability**
+- Apply a **tiered pricing strategy**, gradually increasing rates toward the €138 upper bound at 60% and 80% occupancy to **maximize willingness to pay (WTP)**
+- Use the low cancellation rate (0.51%) to implement a 2–3% **overbooking strategy** on peak nights to ensure full capacity
+- Launch **“Early Bird”** offers for low-demand weeks in April and May, **Last-minute pricing** during peak demand periods Especially in June
+- Implement a 3-night **Minimum Lenght of Stay (MLOS) booking** during Euro 2024 and The Tire Cologne, combined with value-added packages (e.g., breakfast) to support TRevPAR
+- Optimize room yield by incentivizing staff to **upsell and convert standard bookings into premium categories at check-in**
+- Enforce a **stricter cancellation policy** to reduce last-minute cancellations
+- **Close out low-yield channels** (e.g., OTAs) during event periods and prioritize high-margin Direct Bookings and BAR rates
