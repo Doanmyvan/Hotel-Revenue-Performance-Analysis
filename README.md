@@ -34,4 +34,16 @@ In general, rooms generated €4M in revenue, with average occupancy at 78%, ADR
 ### 📈 Forecasting Q2, 2024
 <img width="1293" height="732" alt="Screenshot 2026-05-04 140720" src="https://github.com/user-attachments/assets/428d54dc-f05b-4631-99fb-5680ec8d45c4" />
 
+With major events in Cologne during Q2 2024, especially Euro 2024 and The Tire Cologne in June, the model forecasts an average occupancy of 77%. From April to June, occupancy ranges from an upper bound of 81%–84% to a lower bound of 70%–72%. ADR is expected to average €123, peaking in June, with an upper range of €136–€138 and a lower bound of €108–€113 in low-demand scenarios.
+### 📌 Summary
+**Key Strengths**: 
+- Strong profitability (80.2% GOP margin)
+- Solid ancillary revenue (45% from other department)
+- Diverse Market Mix: Balanced corporate (weekdays) and leisure (weekend) demand 
+- Positive link between satisfaction and pricing (4.6 point)
+**Areas for Improvement**
+  - Unsold rooms account high rate of revenue loss
+  - Out-of-Order (OOO) rooms caused of revenue leak
+  - A 3% drop in Achievement Rate in late March reveals a delayed reaction to softening market demand
+  - Performance begins to decline beyond 80% occupancy, indicating risks of over-discounting to fill remaining capacity.
 ### 💡 Strategic Recommendations
