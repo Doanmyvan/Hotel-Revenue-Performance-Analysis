@@ -41,6 +41,7 @@ With major events in Cologne during Q2 2024, especially Euro 2024 and The Tire C
 - Solid ancillary revenue (45% from other department)
 - Diverse Market Mix: Balanced corporate (weekdays) and leisure (weekend) demand 
 - Positive link between satisfaction and pricing (4.6 point)
+
 **Areas for Improvement**
   - Unsold rooms account high rate of revenue loss
   - Out-of-Order (OOO) rooms caused of revenue leak
