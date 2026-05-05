@@ -55,4 +55,4 @@ With major events in Cologne during Q2 2024, especially Euro 2024 and The Tire C
 - Implement a 3-night **Minimum Lenght of Stay (MLOS) booking** during Euro 2024 and The Tire Cologne, combined with value-added packages (e.g., breakfast) to support TRevPAR
 - Optimize room yield by incentivizing staff to **upsell and convert standard bookings into premium categories at check-in**
 - Enforce a **stricter cancellation policy** to reduce last-minute cancellations
-- **Close out low-yield channels** (e.g., OTAs) during event periods and prioritize high-margin Direct Bookings and BAR rates
+- **Close out low-yield channels** (e.g., OTAs) during event periods and prioritize high-margin Direct Bookings and Best Available Rate (BAR) rates
