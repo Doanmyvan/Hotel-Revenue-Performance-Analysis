@@ -45,6 +45,6 @@ With major events in Cologne during Q2 2024, especially Euro 2024 and The Tire C
 **Areas for Improvement**
   - Unsold rooms account high rate of revenue loss
   - Out-of-Order (OOO) rooms caused of revenue leak
-  - A 3% drop in Achievement Rate in late March reveals a delayed reaction to softening market demand
+  - A drop in Achievement Rate in late March reveals a delayed reaction to softening market demand
   - Performance begins to decline beyond 80% occupancy, indicating risks of over-discounting to fill remaining capacity.
 ### 💡 Strategic Recommendations
