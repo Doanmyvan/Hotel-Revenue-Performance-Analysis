@@ -51,7 +51,7 @@ With major events in Cologne during Q2 2024, especially Euro 2024 and The Tire C
 - Reduce OOO revenue leakage by **optimizing inventory availability**
 - Apply a **tiered pricing strategy**, gradually increasing rates toward the €138 upper bound at 60% and 80% occupancy to **maximize willingness to pay (WTP)**
 - Use the low cancellation rate (0.52%) to implement a ~2% **overbooking strategy** on peak nights to ensure full capacity, avoid revenue loss from last-minute cancellation and no-show booking
-- Launch **“Early Bird”** offers for low-demand weeks in April and May, **"last-minute"** pricing during peak demand periods Especially in June
+- Launch **“Early Bird”** & **promotions** offers for low-demand weeks in April and May, **"last-minute"** pricing during peak demand periods Especially in June
 - Implement a 3-night **Minimum Length of Stay (MLOS) booking** and require a **booking deposit** during major events (especially uro 2024 and The Tire Cologne), complemented by value-added packages (e.g., breakfast) to enhance TRevPAR.
 - Optimize room yield by incentivizing staff to **upsell and convert standard bookings into premium categories at check-in**
 - Enforce a **stricter cancellation policy** (No refund, etc.) to reduce last-minute cancellations
